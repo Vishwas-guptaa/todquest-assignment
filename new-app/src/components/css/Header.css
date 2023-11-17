@@ -1,0 +1,45 @@
+/* Header.css */
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color:white;
+    color: #fff;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+    width: 120px;
+height: 50px;
+
+  }
+  
+  .search-box {
+    padding: 0.5rem;
+    margin: 0 1rem;
+    width: 418px;
+height: 32px;
+padding: 0px, 16px, 0px, 16px;
+border-radius: 8px;
+border: 1px;
+gap: 8px;
+background-color: #E3E3E3;
+
+  }
+  
+  .auth-button {
+    background-color: #F01C21;
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 0.5rem;
+    cursor: pointer;
+    width: 148px;
+height: 38px;
+padding: 12px, 16px, 12px, 16px;
+border-radius: 8px;
+gap: 8px;
+
+  }
+  
